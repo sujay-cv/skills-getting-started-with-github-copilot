@@ -1,3 +1,29 @@
+/* Participants section styles */
+.participants-section {
+  margin-top: 12px;
+  padding: 10px;
+  background: #e3eafc;
+  border-radius: 4px;
+}
+
+.participants-section strong {
+  color: #1a237e;
+}
+
+.participants-list {
+  margin-top: 6px;
+  margin-left: 18px;
+  list-style-type: disc;
+}
+
+.participant-email {
+  color: #3949ab;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.97em;
+  background: #f5f7fa;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
 * {
   box-sizing: border-box;
   margin: 0;
